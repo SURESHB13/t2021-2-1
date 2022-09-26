@@ -1,0 +1,7 @@
+
+
+public interface Calculator1 {
+	public void add();
+	public void sub();
+
+}
